@@ -1,0 +1,5 @@
+20170302 900 8 0 AttendClass AttendCLanguageClass
+20170302 1500 1 1 Can Car
+20170303 1330 6 0 DoAssignment DoChallengeAssignment6
+20170302 1500 5 1 CareerCoun Career
+
